@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\99multiplicatio table\99multiplicatio table\bin\Debug\99multiplicatio table.exe.config
+c:\users\student\documents\visual studio 2015\Projects\99multiplicatio table\99multiplicatio table\bin\Debug\99multiplicatio table.exe
+c:\users\student\documents\visual studio 2015\Projects\99multiplicatio table\99multiplicatio table\bin\Debug\99multiplicatio table.pdb
+c:\users\student\documents\visual studio 2015\Projects\99multiplicatio table\99multiplicatio table\obj\Debug\99multiplicatio table.exe
+c:\users\student\documents\visual studio 2015\Projects\99multiplicatio table\99multiplicatio table\obj\Debug\99multiplicatio table.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\99multiplicatio table\99multiplicatio table\obj\Debug\99multiplicatio table.csprojResolveAssemblyReference.cache
