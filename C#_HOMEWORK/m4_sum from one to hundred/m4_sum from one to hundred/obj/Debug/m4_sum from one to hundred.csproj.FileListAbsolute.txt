@@ -1,6 +1,0 @@
-c:\users\student\documents\visual studio 2015\Projects\m4_sum from one to hundred\m4_sum from one to hundred\bin\Debug\m4_sum from one to hundred.exe.config
-c:\users\student\documents\visual studio 2015\Projects\m4_sum from one to hundred\m4_sum from one to hundred\bin\Debug\m4_sum from one to hundred.exe
-c:\users\student\documents\visual studio 2015\Projects\m4_sum from one to hundred\m4_sum from one to hundred\bin\Debug\m4_sum from one to hundred.pdb
-c:\users\student\documents\visual studio 2015\Projects\m4_sum from one to hundred\m4_sum from one to hundred\obj\Debug\m4_sum from one to hundred.csprojResolveAssemblyReference.cache
-c:\users\student\documents\visual studio 2015\Projects\m4_sum from one to hundred\m4_sum from one to hundred\obj\Debug\m4_sum from one to hundred.exe
-c:\users\student\documents\visual studio 2015\Projects\m4_sum from one to hundred\m4_sum from one to hundred\obj\Debug\m4_sum from one to hundred.pdb

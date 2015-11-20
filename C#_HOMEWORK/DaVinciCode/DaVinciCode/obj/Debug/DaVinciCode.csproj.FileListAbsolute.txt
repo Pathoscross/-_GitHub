@@ -1,6 +1,0 @@
-c:\users\student\documents\visual studio 2015\Projects\DaVinciCode\DaVinciCode\bin\Debug\DaVinciCode.exe.config
-c:\users\student\documents\visual studio 2015\Projects\DaVinciCode\DaVinciCode\bin\Debug\DaVinciCode.exe
-c:\users\student\documents\visual studio 2015\Projects\DaVinciCode\DaVinciCode\bin\Debug\DaVinciCode.pdb
-c:\users\student\documents\visual studio 2015\Projects\DaVinciCode\DaVinciCode\obj\Debug\DaVinciCode.csprojResolveAssemblyReference.cache
-c:\users\student\documents\visual studio 2015\Projects\DaVinciCode\DaVinciCode\obj\Debug\DaVinciCode.exe
-c:\users\student\documents\visual studio 2015\Projects\DaVinciCode\DaVinciCode\obj\Debug\DaVinciCode.pdb
