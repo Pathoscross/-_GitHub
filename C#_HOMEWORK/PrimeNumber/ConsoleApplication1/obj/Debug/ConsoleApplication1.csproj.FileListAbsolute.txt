@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\GitHub\-_GitHub\C#_HOMEWORK\PrimeNumber\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Student\Documents\GitHub\-_GitHub\C#_HOMEWORK\PrimeNumber\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Student\Documents\GitHub\-_GitHub\C#_HOMEWORK\PrimeNumber\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Student\Documents\GitHub\-_GitHub\C#_HOMEWORK\PrimeNumber\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Student\Documents\GitHub\-_GitHub\C#_HOMEWORK\PrimeNumber\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
