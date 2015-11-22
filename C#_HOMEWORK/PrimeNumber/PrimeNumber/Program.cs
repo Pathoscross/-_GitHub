@@ -10,8 +10,8 @@ namespace PrimeNumber
     {
         private static void Main(string[] args)
         {
-            int beginning;
-            int final;
+            int beginning = 0;
+            int final = 1;
             string enterNumber;
 
             Console.WriteLine("尋找質數");
@@ -22,6 +22,11 @@ namespace PrimeNumber
             Console.Write("請輸入結束數字：");
             enterNumber = Console.ReadLine();
             final = prise(enterNumber);
+
+            if (beginning < final)
+            {
+                Console.Write("輸入錯誤請重新輸入");
+            }
 
             primeCheck(beginning, final);
         }
@@ -50,6 +55,8 @@ namespace PrimeNumber
             bool isPrime = true;
 
             int[] primeNumbers = { 2, 3, 5, 7, 11, 13, 17 };
+
+            Console.WriteLine("輸入錯誤，請輸入重新輸入");
         }
     }
 }

@@ -4,3 +4,9 @@ C:\Users\Student\Documents\GitHub\-_GitHub\C#_HOMEWORK\PrimeNumber\PrimeNumber\b
 C:\Users\Student\Documents\GitHub\-_GitHub\C#_HOMEWORK\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojResolveAssemblyReference.cache
 C:\Users\Student\Documents\GitHub\-_GitHub\C#_HOMEWORK\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
 C:\Users\Student\Documents\GitHub\-_GitHub\C#_HOMEWORK\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
+I:\-_GitHub\C#_HOMEWORK\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+I:\-_GitHub\C#_HOMEWORK\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+I:\-_GitHub\C#_HOMEWORK\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
+I:\-_GitHub\C#_HOMEWORK\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+I:\-_GitHub\C#_HOMEWORK\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+I:\-_GitHub\C#_HOMEWORK\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojResolveAssemblyReference.cache
