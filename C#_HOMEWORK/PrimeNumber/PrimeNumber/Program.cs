@@ -10,23 +10,29 @@ namespace PrimeNumber
     {
         private static void Main(string[] args)
         {
-            int beginning = 0;
-            int final = 1;
+            int beginning;
+            int final;
             string enterNumber;
 
-            Console.WriteLine("尋找質數");
-            Console.Write("請輸入起始數字：");
-            enterNumber = Console.ReadLine();
-            beginning = prise(enterNumber);
+            Console.WriteLine("尋找質數\n");
 
-            Console.Write("請輸入結束數字：");
-            enterNumber = Console.ReadLine();
-            final = prise(enterNumber);
-
-            if (beginning < final)
+            do
             {
-                Console.Write("輸入錯誤請重新輸入");
-            }
+                Console.Write("請輸入起始數字：");
+                enterNumber = Console.ReadLine();
+                beginning = prise(enterNumber);
+
+                Console.Write("請輸入結束數字：");
+                enterNumber = Console.ReadLine();
+                final = prise(enterNumber);
+
+                Console.WriteLine("");
+
+                if (beginning > final)
+                {
+                    Console.WriteLine("起始數字不能比結束數字大，請重新輸入。\n");
+                }
+            } while (beginning > final);
 
             primeCheck(beginning, final);
         }
@@ -34,7 +40,7 @@ namespace PrimeNumber
         private static int prise(string number)
         {
             int correctNumber = 0;
-            bool tryPrise;
+            bool tryPrise = false;
 
             do
             {
@@ -42,7 +48,7 @@ namespace PrimeNumber
 
                 if (tryPrise == false)
                 {
-                    Console.WriteLine("輸入錯誤，請輸入重新輸入");
+                    Console.Write("輸入錯誤，請輸入重新輸入： ");
                     number = Console.ReadLine();
                 }
             } while (tryPrise == false);
@@ -52,11 +58,50 @@ namespace PrimeNumber
 
         private static void primeCheck(int min, int max)
         {
-            bool isPrime = true;
+            Console.WriteLine("從{0}到{1}的質數有： ", min, max);
 
-            int[] primeNumbers = { 2, 3, 5, 7, 11, 13, 17 };
+            for (int count = min; count != max; count++)
+            {
+                if (prime(count) == true)
+                {
+                    Console.WriteLine("{0}", count);
+                };
+            }
+        }
 
-            Console.WriteLine("輸入錯誤，請輸入重新輸入");
+        private static bool prime(int number)
+        {
+            switch (number)
+            {
+                case 0:
+                    return false;
+
+                case 1:
+                    return false;
+
+                case 2:
+                    return true;
+
+                case 3:
+                    return true;
+            }
+
+            if (number % 2 == 0 || number % 3 == 0)
+            {
+                return false;
+            }
+            else
+            {
+                for (int i = 5; i * i <= number; i += 2)
+                {
+                    if (number % i == 0)
+                    {
+                        return false;
+                    }
+                }
+            }
+
+            return true;
         }
     }
 }
